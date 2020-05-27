@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_view_1" type="id">text_view_1</item>
+    <item name="text_view_2" type="id">text_view_2</item>
+    <item name="text_view_3" type="id">text_view_3</item>
+    <item name="text_view_4" type="id">text_view_4</item>
+    <item name="text_view_5" type="id">text_view_5</item>
+    <item name="line_0" type="id">line0</item>
+    <item name="line_1" type="id">line1</item>
+    <item name="line_2" type="id">line2</item>
+    <item name="s0" type="id">s0</item>
+    <item name="s1" type="id">s1</item>
+    <item name="s2" type="id">s2</item>
+</resources>

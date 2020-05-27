@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">博物馆导览</string>
+    <string name="title_activity_nav"> </string>
+    <string name="title_home">首页</string>
+    <string name="title_display">展览</string>
+    <string name="title_things">藏品</string>
+    <string name="title_person">个人</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="person">个人</string>
+</resources>
